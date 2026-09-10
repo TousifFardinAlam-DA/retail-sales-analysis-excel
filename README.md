@@ -2,7 +2,7 @@
 
 An interactive Excel-based sales analysis dashboard tracking **₹1.99 Cr+** in revenue, units sold, and stock metrics across multiple sales channels and product lines.
 
-![Dashboard Preview](assets/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## Business Problem
 Retail businesses face challenges monitoring MoM sales trends, regional distribution, brand performance, and evaluating the ROI of marketing promotions across retail, discount, and e-commerce channels.
